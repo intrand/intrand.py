@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="intrand",
-    version="0.0.5",
+    version="0.0.6",
     author="intrand",
     author_email="intrand@intrand.io",
     description="various handy utilities",
