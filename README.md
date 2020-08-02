@@ -35,5 +35,6 @@ intrand.dict_utils.merge(defaults, userConfig)	# merge keys present in defaults,
 												# into userConfig
 
 print(userConfig)
-
 ```
+
+Optionally, you may choose to overwrite your existing values with the new by specifying `overwrite=True`.
